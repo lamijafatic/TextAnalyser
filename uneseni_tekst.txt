@@ -1,0 +1,288 @@
+Text history
+Ovo je prvi uneseni text.
+
+
+On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish.
+
+
+In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business
+
+
+Jos jedan test po milioniti put
+
+
+On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+
+
+
+
+
+ovo je file sa nekim textom 
+
+
+ovo je file sa nekim textom 
+
+
+ovo je file sa nekim textom 
+
+
+ovo je file sa nekim textom 
+
+
+ovo je file sa nekim textom 
+
+
+dfghj
+
+
+
+
+
+
+
+
+
+
+Links
+
+
+
+
+
+
+
+
+
+The Plain Text Project
+
+Articles
+Resources
+                  
+Links
+Tools
+Templates
+
+
+About
+                  
+About the Plain Text Project
+Where (Else) to Find Me on the Web
+Contact Me
+RSS Feed
+
+
+Support the Plain Text Project
+
+
+
+
+Links
+This is a list of links to articles and sites that explain how to effectively use plain text in your life and your work. Note that this page isn’t meant to be a comprehensive or definitive set of links.
+Click the arrow beside any heading below to expand what’s under it.
+
+
+Plain Text Websites
+
+
+Plaintext Productivity
+Plain Text Everything
+A Plain Defense for Plain Text
+Plaintext World
+
+
+
+
+Productivity
+
+
+8 Everyday Things You Can Track with Text Files
+10 Plain Text Files You Should Have on Your Desktop for Higher Productivity
+WorkingMemory.txt (The Most Important Productivity Tool You’ve Never Heard Of)
+Managing IT Projects in Text Mode
+Why I moved my tasks to plain text
+A Plain Text Personal Organizer
+Go Plain: My Simplicity-Driven Personal Productivity System
+The unsexy plain text todo file
+How I’m Using Notational Velocity, Simplenote, and Merlin Mann’s QQ Trick as a Replacement for the GTD Application Things
+Simple Planning With Plain Text
+Text File Time Blocking
+How to: Achieve a text-only work-flow, for academics
+How I organize my life in plaintext
+
+
+
+
+Writing
+
+
+5 Unexpected Benefits of Plain Text for Writers
+The Lo-Fi Manifesto
+A Plain Text Workflow for Academic Writing with Atom
+How To Use Git to Manage Your Writing Project
+Writing in Emacs
+
+
+
+
+Markdown
+
+
+Learning Markdown (OK, this is my book. You can't blame a guy for marketing his own work!)
+Markup, Markdown: Write In Elegant Plain Text
+Markdown Reference
+Mastering Markdown
+How to Create a Markdown Table
+Markdown and code snippet management
+What Is Markdown Formatting?
+
+
+
+
+Other Markup Languages
+
+
+Learning HTML  (OK, this is my book. Again, you can't blame a guy for marketing his own work!)
+LaTeX-Tutorial.com
+Getting Started with DocBook
+reStructuredText – what-you-see-is-what-you-get plaintext markup language
+HTML.com
+AsciiMath
+PreText
+AsciiDoc – text document format for writing 
+MyST - Markedly Structured Text
+Org Mode Is One of the Most Reasonable Markup Languages to Use for Text
+
+
+
+
+General Information
+
+
+Write plain text files
+What is Plain Text?
+Pandoc cheatsheet
+What Is a Text File?
+store everything in text files
+How I organize everything with plain-text notes
+My Text Editor Journey: Vim, Spacemacs, Atom and Sublime Text
+always bet on text
+What can and cannot be done in a text file?
+How to Set Up a Text-Based Notes System
+Simple and Universal: A History of Plain Text, and Why It Matters
+Plain Text Accounting
+Use plaintext email
+My World in Textfiles
+My journey into the plain text life - Intro
+
+
+
+
+
+
+      The Plain Text Project is licensed under CC BY-NC-SA 4.0. 
+
+
+
+
+
+
+
+ovo je file sa nekim textom 
+
+
+There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text
+
+
+ovo je file sa nekim textom 
+
+
+asdfghjklèæž
+
+
+Samoglasnici 
+
+
+Ovo je recenica za analizu testna.
+
+
+recenica opet testna hi 
+
+
+recenica opet testna hi pol
+
+
+ovo je recenica za analizu duzine najvece i najkrace
+
+
+
+
+
+of
+
+
+o
+
+
+majmun su
+
+
+a
+
+
+aa a
+
+
+majmun
+
+
+
+
+
+
+majmun
+
+
+
+
+
+
+
+recenica 1. rwcwnia w.
+
+
+recenica 1. rwcwnia w. 
+
+
+recenica 1. 
+
+
+recenica 1. jjjj.dddd?
+
+
+reeffdv.dfbfdwdfv?
+
+
+rijec rijec a
+
+
+rijec rijec a a a a
+
+
+qwdf
+
+
+qwdf
+
+
+dd
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+
+yxcvnmbvc dfghjk
+
+
+tekst tekst je ovvov
+
+
